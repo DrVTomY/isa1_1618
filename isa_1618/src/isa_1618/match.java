@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 package isa_1618;
 import java.util.Scanner;  
 
@@ -6,7 +14,7 @@ public class match {
 	 
 	 
 
-	public static void main(String args[]){  
+	match(){  
 	
 		 sc = new Scanner(System.in);
 		 
